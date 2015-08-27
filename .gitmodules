@@ -1,0 +1,3 @@
+[submodule "citest-inc"]
+	path = citest-inc
+	url = git@git.coding.net:wyuelin/citest-inc.git
